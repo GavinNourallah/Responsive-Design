@@ -1,0 +1,21 @@
+/* styles.css */
+
+.headline {
+	margin-top: 30px;
+	border-top: 2px solid #111111;
+	border-bottom: 2px solid #111111;
+}
+
+.unifrakturmaguntia-regular, h1 {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: bold;
+}
+
+.dividingline {
+	border-left: 2px solid black;
+}
+
+.bottomline {
+	margin-bottom: 30px;
+}
